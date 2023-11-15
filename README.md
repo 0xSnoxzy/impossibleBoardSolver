@@ -1,8 +1,9 @@
-# prisonersChessboardSolver
+# Chessboard and coins Problem Solver
 Just a program that solves the famous prisoners puzzle, 3blue1brown made a video about, here is the link: https://youtu.be/wTJI_WuZSwE?si=Bw1feObsWtTTR1zL
 
 ## Disclaimer:
 This is a simplified version of the problem, the original is in a 8x8 board, but the steps to achieve freedom should be the same :)
+oh and the code quality is what it is, dont judge me :/
 
 ### The problem:
 You and a fellow prisoner are imprisoned in a dungeon and are facing execution. As is usual in these problems, the prison warden has both a love of recreational mathematics and an unusual amount of judicial latitude when it comes to deciding your fate. They want to give you and your cellmate a chance of freedom but don’t want to make it too easy for you.
