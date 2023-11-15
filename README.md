@@ -12,10 +12,15 @@ They have a chessboard where each square is covered by a coin — either heads o
 The rules are as follows:
 
 (1) You and your cellmate can discuss how to encode a message using the chessboard but the prison warden can hear and understand everything that you say.
+
 (2) Once you have decided on a system, your companion leaves the room.
+
 (3) You observe the prison warden hiding the key in one square and then arranging the 64 coins as heads or tails however they deem fit — presumably trying to frustrate your system.
+
 (4) You then turn over exactly one coin on the chess board and leave the room.
+
 (5) Your companion re-enters the room, without having any opportunity to see or communicate with you. He observes the chessboard and the arrangement of coins and points to the square where he believes the key and freedom reside.
+
 (6) Nothing sneaky is allowed on pain of immediate death i.e. This is a pure logic problem- there is no meta game. Paper and Pencil, calculator and plenty of time are available to you and your cellmate if necessary.
 
 ### The solution:
