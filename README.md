@@ -22,7 +22,7 @@ The rules are as follows:
 
 (5) Your companion re-enters the room, without having any opportunity to see or communicate with you. He observes the chessboard and the arrangement of coins and points to the square where he believes the key and freedom reside.
 
-(6) Nothing sneaky is allowed on pain of immediate death i.e. This is a pure logic problem- there is no meta game. Paper and Pencil, calculator and plenty of time are available to you and your cellmate if necessary.
+(6) Nothing sneaky is allowed no pain or immediate death i.e. This is a pure logic problem- there is no meta game. Paper and Pencil, calculator and plenty of time are available to you and your cellmate if necessary.
 
 ### The solution:
 For clarity we will divide the two players calling them Player 1 and Player 2 (obviously player 1 will go first)
