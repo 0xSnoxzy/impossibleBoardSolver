@@ -1,5 +1,5 @@
 # Chessboard and coins Problem Solver
-Just a program that solves the famous prisoners puzzle, 3blue1brown made a video about, here is the link: https://youtu.be/wTJI_WuZSwE?si=Bw1feObsWtTTR1zL
+Just a program that solves the famous prisoners puzzle, 3blue1brown made a video about it, here is the link: https://youtu.be/wTJI_WuZSwE?si=Bw1feObsWtTTR1zL
 
 ## Disclaimer:
 This is a simplified version of the problem, the original is in a 8x8 board, but the steps to achieve freedom should be the same :)
